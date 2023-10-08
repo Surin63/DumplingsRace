@@ -9,6 +9,7 @@ public class Main {
         Race race2017 = new Race();
         Race race2018 = new Race();
         Race race2019 = new Race();
+        //vymazat
 
         firstRacer.setName("Radek");
         System.out.println(firstRacer.getName());
