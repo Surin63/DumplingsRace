@@ -1,12 +1,15 @@
 package com.engeto.examples.dumplings;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Race {
     int year;
     String title;
     LocalDate date;
     Racer winner;
+    List<Racer> listOfRacers = new ArrayList<>();
 
     public Race(int year) {
         this("Svestka Cup", year);
@@ -25,6 +28,17 @@ public class Race {
         this.title = title;
         this.date = date;
         this.winner = null;
+    }
+
+    public void addRacer(Racer newRacer) {
+        listOfRacers.add(newRacer);
+    }
+    public void removeRacer(Racer racer) {
+        listOfRacers.remove(racer);
+    }
+
+    public List<Racer> getRacers() {
+        return new ArrayList<Racer>(listOfRacers);
     }
 
     public int getYear() {

@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088d3896-91a4-431c-aa8d-852cfbb3da45" name="Changes" comment="Prvni vztvoreni trid a postupne reseni podle ucebniho planu.">
+    <list default="true" id="088d3896-91a4-431c-aa8d-852cfbb3da45" name="Changes" comment="Prvni vztvoreni trid a postupne reseni podle ucebniho planu.&#10;&#10;pokracovani v lekci 2.5. array list">
+      <change afterPath="$PROJECT_DIR$/src/com/engeto/examples/dumplings/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/engeto/examples/dumplings/Race.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/examples/dumplings/Race.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/engeto/examples/dumplings/Racer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/engeto/examples/dumplings/Racer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Prvni vztvoreni trid a postupne reseni podle ucebniho planu." />
-    <option name="LAST_COMMIT_MESSAGE" value="Prvni vztvoreni trid a postupne reseni podle ucebniho planu." />
+    <MESSAGE value="Prvni vztvoreni trid a postupne reseni podle ucebniho planu.&#10;&#10;pokracovani v lekci 2.5. array list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prvni vztvoreni trid a postupne reseni podle ucebniho planu.&#10;&#10;pokracovani v lekci 2.5. array list" />
   </component>
 </project>
